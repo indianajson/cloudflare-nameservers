@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="indy-cf.gif" width="550px"></h1>
 
-> Cloudflare operates hundreds of nameservers across there network. During one of my daring adventures, I had a master list compiled of all their current nameservers.  That adventure is complete and I figured I'd share it just in case you every need it too... don't say I never gave you anything.
+> Cloudflare operates hundreds of nameservers across their network. During one of my daring adventures, I had a master list compiled of all their current nameservers.  That adventure is complete and I figured I'd share it just in case you every need it too... don't say I never gave you anything.
 
 <div align="right">- Indiana Json</div>
 
