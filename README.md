@@ -1,3 +1,5 @@
+Latest Update: December 2025
+
 <h1 align="center">
 <img src="indy-cf.gif" width="550px"></h1>
 
@@ -5,9 +7,10 @@
 
 <div align="right">- Indiana Json</div>
 
+
 ## Downloads
 
-  1. A complete list of all 900 of Cloudflare's nameserver names. <code><a target="_blank" href="cloudflare-names.txt">Download "cloudflare-names.txt"</a></code><br>
+  1. A complete list of all 899 of Cloudflare's nameserver names. <code><a target="_blank" href="cloudflare-names.txt">Download "cloudflare-names.txt"</a></code><br>
   2. A list of every nameserver and its associated IP addresses. <code><a target="_blank" href="cloudflare-ips.txt">Download "cloudflare-ips.txt"</a></code> 
     
 ## Random Notes
